@@ -11,5 +11,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'angular34';
-  email = ' aaaa@ddddda.com '
+
+  email = 'aaaaddddda.com@'
 }
